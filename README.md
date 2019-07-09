@@ -65,6 +65,11 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
     </tr>
 </table>
 
+## Auteur
+
+:smiley: [Xavier Pigeon](https://xavierpigeon.com)  
+:mailbox: [contact@chrysocode.io](mailto:contact@chrysocode.io)
+
 # Patrons de kata
 
 Les patrons de kata servent à démarrer rapidement n'importe quel kata de code dans un langage donné, en bénéficiant d'une mini-usine logicielle à portée de main.
