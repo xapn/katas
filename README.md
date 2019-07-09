@@ -72,3 +72,7 @@ Les patrons de kata servent à démarrer rapidement n'importe quel kata de code 
 Langage | Patron de kata | Lien permanent
 ------- | -------------- | --------------
 Java    | [Java Code Kata Boilerplate](https://github.com/chrysocode/java-code-kata-boilerplate) | tinyurl.com/yyekn5rf
+
+# Formation & Conseil
+
+Retrouvez l'offre de [formation](https://chrysocode.io/formation.html) et de [conseil](https://chrysocode.io/conseil.html) de Chrysocode sur [chrysocode.io](https://chrysocode.io).
