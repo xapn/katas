@@ -1,4 +1,12 @@
+[:house::back:](https://xavierpigeon.com)
+
 # Katas de code
+
+## Qu'est-ce qu'un kata de code ?
+
+Un kata de code est un défi de programmation algorithmique, destiné à l'apprentissage ou au perfectionnement. Dans le cadre d'un kata, la solution obtenue a moins d'importance que le chemin emprunté pour y parvenir, car meilleur est le chemin, meilleure sera la solution. Les petits pas de [TDD](https://fr.wikipedia.org/wiki/Test_driven_development) forment cette discipline par laquelle construire un chemin, tandis que refaire un kata de zéro donne l'occasion d'en explorer un nouveau afin d'apprendre de soi-même par l'expérimentation. Les leçons apprises permettent au programmeur d'approfondir sa maîtrise dans le maniement du code, voire de transcender son art en créant une approche originale et novatrice. Les réflexes ainsi acquis serviront ensuite à mener à bien toutes sortes de mission.
+
+## Catalogue des katas
 
 Vous trouverez ci-après la liste des katas de code déjà réalisés à titre de démonstration, dans un ou plusieurs langages.
 
