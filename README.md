@@ -57,3 +57,11 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
         <td>Seb ROSE</td>
     </tr>
 </table>
+
+# Patrons de kata
+
+Les patrons de kata servent à démarrer rapidement n'importe quel kata de code dans un langage donné, en bénéficiant d'une mini-usine logicielle à portée de main.
+
+Langage | Patron de kata | Lien permanent
+------- | -------------- | --------------
+Java    | [Java Code Kata Boilerplate](https://github.com/chrysocode/java-code-kata-boilerplate) | tinyurl.com/yyekn5rf
