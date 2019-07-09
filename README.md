@@ -7,6 +7,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
         <th>Niveau</th>
         <th>Kata</th>
         <th>Author</th>
+        <th>Source</th>
     </tr>
     <tr>
         <td>Initiation</td>
@@ -15,6 +16,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="https://github.com/xapn/fizz-buzz-kata">java</a>
         </td>
         <td>anonymous</td>
+        <td><a href="http://codingdojo.org/kata/FizzBuzz/">CodingDojo</a></td>
     </tr>
     <tr>
         <td>Initiation</td>
@@ -23,6 +25,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="https://github.com/xapn/leap-years-kata">java</a>
         </td>
         <td>unknown</td>
+        <td></td>
     </tr>
     <tr>
         <td>Initiation</td>
@@ -31,6 +34,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="">java</a> <a href="">javascript</a>
         </td>
         <td>-</td>
+        <td></td>
     </tr>
     <tr>
         <td>Initiation</td>
@@ -39,6 +43,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="https://github.com/xapn/string-calculator-kata">java</a>
         </td>
         <td>Roy OSHEROVE</td>
+        <td></td>
     </tr>
     <tr>
         <td>Intermédiaire</td>
@@ -47,6 +52,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="https://github.com/xapn/rpn-calculator-kata">java</a>
         </td>
         <td>unknown</td>
+        <td></td>
     </tr>
     <tr>
         <td>Intermédiaire</td>
@@ -55,6 +61,7 @@ Vous trouverez ci-après la liste des katas de code déjà réalisés à titre d
             <a href="https://github.com/xapn/diamond-kata">java</a>
         </td>
         <td>Seb ROSE</td>
+        <td><a href="http://claysnow.co.uk/recycling-tests-in-tdd/">Recycling tests in TDD</a></td>
     </tr>
 </table>
 
